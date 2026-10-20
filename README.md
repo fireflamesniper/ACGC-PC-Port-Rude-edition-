@@ -1,6 +1,6 @@
-# Animal Crossing PC Port
+# Animal Crossing PC Port Rude Edition 
 
-A native PC port of Animal Crossing (GameCube) built on top of the [ac-decomp](https://github.com/ACreTeam/ac-decomp) decompilation project.
+A native PC port of Animal Crossing (GameCube) built on top of the [ac-decomp](https://github.com/ACreTeam/ac-decomp) decompilation project. With changes to to dialogue with villagers being rude, and swearing too.
 
 The game's original C code runs natively on x86, with a custom translation layer replacing the GameCube's GX graphics API with OpenGL 3.3.
 
